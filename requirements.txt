@@ -1,0 +1,5 @@
+# Dependencias del POS (se irán agregando en cada fase)
+# PySide6-Essentials = la parte de PySide6 que usamos (ventanas), sin extras pesados
+PySide6-Essentials>=6.6
+openpyxl>=3.1
+pyserial>=3.5
